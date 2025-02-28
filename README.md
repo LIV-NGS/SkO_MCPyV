@@ -21,9 +21,10 @@ and map processes involved in tumor development.
 
 **Info**
 
-1. Repository includes Data analysis and figure generation code for this paper.
-2. Processed filtered counts for the samples are not uploaded during making of this repository. 
-3. Additional commands for generating objects, if missing, will be added later. 
+1. Repository includes figure generation code for this paper.
+2. Data analysis code will be added later.
+3. Processed filtered counts for the samples are not uploaded during making of this repository. 
+4. Additional commands for generating objects, if missing, will be added later. 
 
 
 
